@@ -1,0 +1,2 @@
+Assignment - 01
+1. Draw a rectangle with a constant diagonal of 7.1 inch and a width of more than 4 inches
