@@ -20,7 +20,7 @@ Draw a rectangle with a constant diagonal of 7.1 inch and a width of more than 4
 ![Onshape Screenshot](./Screenshot-Assignment_01.png)
 
 ### 3D Drawing View →
-![Drawing View](./Assignment_01%20-%20Drawing%20View.png)
+![Drawing View](./Assignment_01-Drawing_View.png)
 
 ---
 
