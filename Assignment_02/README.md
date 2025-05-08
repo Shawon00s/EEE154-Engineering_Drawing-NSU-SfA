@@ -4,8 +4,8 @@
 ```
 You are required to draw the following object in onshape:
 
-1. Draw an isosceles triangle with sides 5, 5, and 2 cm.
-2. Extrude this triable to make a 3D triangular block of depth 6 cm
+1. Draw an isosceles triangle with sides 5, 5, and 2 cm
+2. Extrude this triangle to make a 3D triangular block of depth 6 cm
 3. Make a hole of depth 3 cm through one of the 5 cm slanted edges.
 ```
 
