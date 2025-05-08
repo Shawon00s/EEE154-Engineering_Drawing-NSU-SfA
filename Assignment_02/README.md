@@ -17,9 +17,7 @@ You are required to draw the following object in onshape:
 
 ## 🔗 Onshape Model
 
-[🔗 View Onshape Model](#)
-
-> *Replace the link above with your actual Onshape project URL.*
+[🔗 View Onshape Model](https://cad.onshape.com/documents/d48cb53a5bec734efcbc55e3/w/47b20a02e8bc75b0cd0b1f1f/e/68ae56d9667103869350aec8?renderMode=0&uiState=681c5d7f3c4d656073c3d5db)
 
 ## 🖼️ Screenshots
 
