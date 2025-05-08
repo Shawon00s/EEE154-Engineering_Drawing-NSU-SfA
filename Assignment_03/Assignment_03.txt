@@ -1,0 +1,9 @@
+You are required to build a 3D keychain using onshape
+
+Here are the instructions -
+
+1. Draw a rectangle (50 mm by 20 mm)
+2. Fillet the corners with a radius of 5mm
+3. Depth of the block should be 10 mm
+4. Add a hole of diameter 5mm at one of the corners
+5. Engrave your name or initials with a depth of 2 mm
