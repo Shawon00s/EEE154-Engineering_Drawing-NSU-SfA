@@ -21,9 +21,7 @@ Here are the instructions -
 
 ## 🔗 Onshape Model
 
-[🔗 View Onshape Model](https://cad.onshape.com/documents/example-link-assignment03)
-
-> *Replace the above link with the actual Assignment 03 Onshape URL.*
+[🔗 View Onshape Model](https://cad.onshape.com/documents/80f3d6e360814f36d23216f9/w/04c65762aab844773bc28a5c/e/99678701e165ac79a684d1d3?renderMode=0&uiState=681d00782dcd881bdedea6e3)
 
 ## 🖼️ Screenshots
 
