@@ -16,9 +16,7 @@ You should submit a pdf of the drawing displaying the top, right, front and isom
 
 ## 🔗 Onshape Model
 
-[🔗 View Onshape Model](https://cad.onshape.com/documents/example-link-assignment04)
-
-> *Replace the above link with the actual Assignment 04 Onshape URL.*
+[🔗 View Onshape Model](https://cad.onshape.com/documents/92e540ffa2744e73eb102036/w/b81784054a6c4c4f84f7d40e/e/ed2628b6bdf3b75dda781a03?renderMode=0&uiState=681fa281f5246573111d014e)
 
 ## 🖼️ Screenshots
 
