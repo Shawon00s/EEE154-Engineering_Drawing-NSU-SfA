@@ -7,6 +7,13 @@ Welcome to the **EEE154 Engineering Drawing** assignments repository! This repos
 ## 📂 Repository Structure
 
 The repository is organized into folders, each corresponding to a specific assignment:
+```
+├── Assignment_01/ 
+├── Assignment_02/ 
+├── Assignment_03/ 
+├── Assignment_04/ 
+└── README.md
+```
 
 ### Key Files:
 - **Assignment_X.txt**: Contains the assignment instructions.
@@ -38,7 +45,7 @@ The repository is organized into folders, each corresponding to a specific assig
 ---
 
 ### Assignment 03: 3D Keychain with Engravings
-![Assignment 03 Screenshot](Assignment_03/Screenshot-Assignment_03.png)
+![Assignment 03_Screenshot](Assignment_03/Screenshot-Assignment_03.png)
 - **Objective**: Build a 3D keychain with realistic dimensions and engravings.
 - **Highlights**:
   - Create a 3D keychain with filleted corners and a circular hole.
@@ -76,6 +83,3 @@ For any questions or clarifications, feel free to reach out:
 📧 **royshawonsudipto@gmail.com**
 
 ---
-
-## 🎨 Preview
-![Repository Preview](EEE154-Engineering_Drawing-NSU-SfA\Assignment_04\Repository-Preview.png)
